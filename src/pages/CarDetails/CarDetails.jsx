@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import carData from '../../data/carData.json';
 import { useParams } from 'react-router-dom';
 import './CarDetails.css';
-import MailButton from "../../components/MailButton/Mailbutton";
+import MailButton from "../../components/MailButton/MailButton";
 
 const CarDetails = () => {
     const { id } = useParams();
