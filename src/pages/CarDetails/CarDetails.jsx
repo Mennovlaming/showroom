@@ -26,10 +26,10 @@ const CarDetails = () => {
                 <p>{car.secondTitle}</p>
             </div>
             <div className="slideshow">
-                <button className=" navLeft" onClick={previousImage}><img src="../../images/arrow.png" alt="Left" /></button>
-                <button className=" navRight" onClick={nextImage}><img src="../../images/arrow.png" alt="Right" /></button>
+                <button className=" navLeft" onClick={previousImage}><img src="/images/arrow.png" alt="Left" /></button>
+                <button className=" navRight" onClick={nextImage}><img src="/images/arrow.png" alt="Right" /></button>
                 <div className="image-container">
-                    <img className="image" src={`../../images/${car.images[currentImageIndex]}`} alt={car.title} loading='lazy' />
+                    <img className="image" src={`/images/${car.images[currentImageIndex]}`} alt={car.title} loading='lazy' />
                 </div>
                 <p className="image-indicator">{currentImageIndex + 1} / {car.images.length}</p>
             </div>
