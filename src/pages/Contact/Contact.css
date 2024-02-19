@@ -1,0 +1,24 @@
+.Contact {
+    margin: 2em;
+}
+.Contact p:first-of-type {
+    margin-bottom: 2em;
+}
+.Contact p:last-of-type {
+    margin-bottom: 2em;
+}
+
+@media screen and (min-width: 1324px) {
+    
+   }
+
+@media screen and (min-width: 768px) {
+    .Contact {
+        display: flex;
+        align-items: center;
+       
+     }
+    .contactText {
+        max-width: 600px;
+    }
+}

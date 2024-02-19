@@ -1,0 +1,42 @@
+[
+    {
+      "id": 0,
+      "title": "Auto 1",
+      "secondTitle": "Dit is de eerste auto.",
+      "images": ["auto1.jpg", "auto1.2.jpg", "auto1.3.jpg"],
+      "desctription": "Hier een kleine, samenvattende beschrijving van de auto 'optioneel'",
+      "Bouwjaar":"1980",
+      "Kilometerstand": "50.000",
+      "Vermogen":"200px",
+      "Transmissie":"automaat",
+      "Brandstof":"benzine"
+    },
+    {
+      "id": 1,
+      "title": "Auto 2",
+      "secondTitle": "Dit is de derde auto.",
+      "images": ["auto2.jpg"],
+      "desctription": "Hier een kleine, samenvattende beschrijving van de auto 'optioneel'",
+      "Bouwjaar":"1980",
+      "Kilometerstand": "50.000",
+      "Vermogen":"200px",
+      "Transmissie":"automaat",
+      "Brandstof":"benzine"
+    },
+    
+    {
+      "id": 2,
+      "title": "Auto 3",
+      "secondTitle": "Dit is de tweede auto.",
+      "images": ["auto3.jpg"],
+      "desctription": "Hier een kleine, samenvattende beschrijving van de auto 'optioneel'",
+      "Bouwjaar":"1980",
+      "Kilometerstand": "50.000",
+      "Vermogen":"200px",
+      "Transmissie":"automaat",
+      "Brandstof":"benzine"
+    }
+    
+  
+  ]
+  

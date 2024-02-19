@@ -1,0 +1,66 @@
+/* Navbar.css */
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1.5em;
+    background-color: #333;
+    color: white;
+  }
+  
+  .navbar-hamburger {
+    font-size: 1.5rem;
+    cursor: pointer;
+  }
+  
+  .navbar-links {
+    display: flex;
+    gap: 20px;
+  }
+  
+  .navbar-links a {
+    text-decoration: none;
+    color: white;
+  }
+  .navbar-links a:hover {
+    text-decoration: underline;
+    color: var(--blue)
+  }
+  /* kleine schermen */
+  @media (max-width: 768px) {
+   
+    .navbar-links {
+      display: none;
+      flex-direction: column;
+      position: absolute;
+      top: 60px;
+      left: 0;
+      width: 100%;
+      background-color: #333;
+    }
+  
+    .navbar-links.open {
+      display: flex;
+      padding: 1em;
+    }
+    
+    .navbar-hamburger {
+      display: block;
+      font-size: 60px;
+      margin: -25px -10px -10px 0;
+    }
+  }
+  
+  /* Grote schermen */
+  @media (min-width: 769px) {
+    .navbar-hamburger {
+      display: none;
+    }
+  
+    .navbar-links {
+      flex: 1; /* Neem de rest van de ruimte in beslag */
+      justify-content: center; /* Centreer de links */
+    }
+  }
+  

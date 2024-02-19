@@ -1,0 +1,87 @@
+.pages {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main {
+    min-height: 100%;
+    margin: 2em;
+}
+
+.showroomButton {
+    width: 210px;
+    height: 50px;
+    background-color: var(--blue);
+    border: none;
+    color: white;
+    border-radius: 12px;
+    box-shadow: 2px 2px 5px rgba(130, 130, 130, 0.6);
+    font-size: 26px;
+    font-family: "Oswald", sans-serif;
+    cursor: pointer;
+}
+
+main img {
+    width: 50%;
+    display: none;  
+    max-width: 500px;
+}
+
+h2 {
+    margin: 1em 0;
+    font-size: 26px;
+}
+.collection {
+    color: #6F9EB8;
+}
+
+p {
+    font-size: 14px;
+}
+
+.text {
+    max-width: 740px;
+}
+
+.imageRight {
+    margin-bottom: 2em;
+}
+
+.imageRight p {
+    margin: 0 0 2em 0;
+}
+
+@media screen and (min-width: 768px) {
+    main img {
+        display: block;
+    }
+    .imageLeft {
+        display: flex;
+        margin-bottom: 3em;
+    }
+    .imageLeft p{
+        margin-right: 2em;
+    }
+    .imageLeft h2 {
+        margin: 0 0 1em 0;
+    }
+    .imageRight {
+        display: flex;
+    }
+    .imageRight .text {
+        margin-left: 2em;
+    }
+    .imageRight h2 {
+        margin: 0 0 1em 0;
+    }
+    .imageRight p {
+        margin-bottom: 2em;
+    }
+}
+  
+@media screen and (min-width: 1324px) {
+ main {
+    margin: 10em;
+ }
+}

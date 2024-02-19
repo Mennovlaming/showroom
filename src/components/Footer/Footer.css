@@ -1,0 +1,16 @@
+
+.footer {
+    
+    background-color: #28282B;
+    color: white;
+    display: flex;
+    gap: 50%;
+    padding: 2em;
+    margin-top: 2em;
+}
+
+.email {
+    text-decoration: underline;
+    color: var(--blue);
+    cursor: pointer;
+}

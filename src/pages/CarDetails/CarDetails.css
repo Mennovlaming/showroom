@@ -1,0 +1,96 @@
+.CarDetails .text{
+    margin: 2em;
+}
+.image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; /* Zorgt ervoor dat de afbeelding de container vult zonder de verhoudingen te verliezen */
+}
+.image-container {
+    width: 100%;
+    height: 300px; /* Pas de hoogte aan op basis van jouw ontwerpbehoeften */
+    overflow: hidden;
+    position: relative;
+}
+.mail {
+    margin-left: 2em;
+}
+.SmallDetails {
+    display: flex;
+    flex-direction: column;
+    gap: .5em;
+    margin: 2em;
+    padding: 2em 0;
+    border-top: 1.5px solid var(--blue);
+    border-bottom: 1.5px solid var(--blue);
+}
+.slideshow {
+    position: relative;
+}
+.slideshow button {
+    position: absolute;
+    z-index: 99;
+    top: 50%;
+    height: 50px;
+    width: 50px;
+}
+.navLeft {
+    left: 10px;
+}
+.navRight {
+    right: 10px;
+}
+.navLeft img {
+    transform: rotate(90deg);
+    width: 20px;
+}
+.navRight img {
+    transform: rotate(270deg);
+    width: 20px;
+}
+.image-indicator {
+    position: absolute;
+    bottom: 10px; /* Of pas aan naar wens */
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 100;
+}
+.image-indicator {
+    /* Andere stijlregels die je wilt toevoegen */
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 0.5em;
+    border-radius: 5px;
+}
+
+@media screen and (min-width: 768px) {
+.CarDetails {
+    margin: 0 2em;
+}
+.image-container {
+    width: 750px;
+    height: 500px; /* Pas de hoogte aan op basis van jouw ontwerpbehoeften */
+   
+}
+}
+
+@media screen and (min-width: 1200px) {
+    .CarDetails {
+        margin: 0 8em;
+    }
+    .image-container {
+        width: 975px;
+        height: 650px; /* Pas de hoogte aan op basis van jouw ontwerpbehoeften */
+       
+    }
+
+    img {
+        max-width: 1000px;
+    }
+    h2{
+        font-size: 36px;
+    }
+    p {
+        font-size: 18px;
+    }
+    }
+
