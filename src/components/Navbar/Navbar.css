@@ -4,8 +4,8 @@
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 1.5em;
-    background-color: #333;
+    padding: 1em;
+    background-color: white;
     color: white;
   }
   
@@ -17,11 +17,14 @@
   .navbar-links {
     display: flex;
     gap: 20px;
+    justify-content: space-around;
   }
   
   .navbar-links a {
     text-decoration: none;
-    color: white;
+    color: black;
+    font-weight: 600;
+    transition: .2s;
   }
   .navbar-links a:hover {
     text-decoration: underline;
@@ -34,10 +37,10 @@
       display: none;
       flex-direction: column;
       position: absolute;
-      top: 60px;
+      top: 50px;
       left: 0;
       width: 100%;
-      background-color: #333;
+      background-color: black;
     }
   
     .navbar-links.open {
@@ -47,18 +50,19 @@
     
     .navbar-hamburger {
       display: block;
-      font-size: 60px;
+      font-size: 40px;
       margin: -25px -10px -10px 0;
     }
   }
   
-  /* Grote schermen */
+ 
   @media (min-width: 769px) {
     .navbar-hamburger {
       display: none;
     }
   
     .navbar-links {
+      gap: 5em;
       flex: 1; /* Neem de rest van de ruimte in beslag */
       justify-content: center; /* Centreer de links */
     }

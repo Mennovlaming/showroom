@@ -5,6 +5,7 @@ import './Navbar.css'
 import Contact from '../../pages/Contact/Contact'
 import Home from '../../pages/Home/Home'
 import Showroom from '../../pages/Showroom/Showroom'
+import Over from '../../pages/Over/Over'
 
 const Navbar = () => {
   const [isMenuOpen, setMenuOpen] = useState(false)
@@ -26,8 +27,9 @@ const Navbar = () => {
         <Link to="/" onClick={closeMenu}>Home</Link>
         <Link to="/Showroom" onClick={closeMenu}>Showroom</Link>
         <Link to="/Contact" onClick={closeMenu}>Contact</Link>
+        <Link to="/Over" onClick={closeMenu}>Over</Link>
       </div>
-      <div className="navbar-logo">Logo</div>
+      
     </nav>
   )
 }

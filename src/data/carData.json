@@ -1,21 +1,44 @@
 [
     {
       "id": 0,
-      "title": "Auto 1",
+      "title": "Travelall",
       "secondTitle": "Dit is de eerste auto.",
-      "images": ["auto1.jpg", "auto1.2.jpg", "auto1.3.jpg"],
-      "desctription": "Hier een kleine, samenvattende beschrijving van de auto 'optioneel'",
+      "images": ["international_travelall/travelall1.jpg",
+       "international_travelall/travelall1.1.jpg", 
+       "international_travelall/travelall1.2.jpg",
+       "international_travelall/travelall1.3.jpg",
+       "international_travelall/travelall1.4.jpg",
+       "international_travelall/travelall1.5.jpg",
+       "international_travelall/travelall1.6.jpg",
+       "international_travelall/travelall1.7.jpg",
+       "international_travelall/travelall1.8.jpg",
+       "international_travelall/travelall1.9.jpg",
+       "international_travelall/travelall1.10.jpg",
+       "international_travelall/travelall1.11.jpg",
+       "international_travelall/travelall1.12.jpg"
+      ],
+      "desctription": "Hier een kleine, samenvattende beschrijving van de auto 'optioneel,'",
       "Bouwjaar":"1980",
       "Kilometerstand": "50.000",
-      "Vermogen":"200px",
+      "Vermogen":"200pk",
       "Transmissie":"automaat",
       "Brandstof":"benzine"
     },
     {
       "id": 1,
-      "title": "Auto 2",
+      "title": "Mustang 6 ",
       "secondTitle": "Dit is de derde auto.",
-      "images": ["auto2.jpg"],
+      "images": ["mustang6/mustang1.jpg",
+        "mustang6/mustang1.1.jpg",
+        "mustang6/mustang1.2.jpg",
+        "mustang6/mustang1.3.jpg",
+        "mustang6/mustang1.4.jpg",
+        "mustang6/mustang1.5.jpg",
+        "mustang6/mustang1.6.jpg",
+        "mustang6/mustang1.7.jpg",
+        "mustang6/mustang1.8.jpg",
+        "mustang6/mustang1.9.jpg"
+      ],
       "desctription": "Hier een kleine, samenvattende beschrijving van de auto 'optioneel'",
       "Bouwjaar":"1980",
       "Kilometerstand": "50.000",
@@ -26,9 +49,17 @@
     
     {
       "id": 2,
-      "title": "Auto 3",
+      "title": "Mustang Cabrio",
       "secondTitle": "Dit is de tweede auto.",
-      "images": ["auto3.jpg"],
+      "images": ["mustangcabrio/mustangcabrio1.jpg",
+      "mustangcabrio/mustangcabrio1.1.jpg",
+      "mustangcabrio/mustangcabrio1.2.jpg",
+      "mustangcabrio/mustangcabrio1.3.jpg",
+      "mustangcabrio/mustangcabrio1.4.jpg",
+      "mustangcabrio/mustangcabrio1.5.jpg",
+      "mustangcabrio/mustangcabrio1.6.jpg"
+    ],
+
       "desctription": "Hier een kleine, samenvattende beschrijving van de auto 'optioneel'",
       "Bouwjaar":"1980",
       "Kilometerstand": "50.000",
@@ -36,7 +67,5 @@
       "Transmissie":"automaat",
       "Brandstof":"benzine"
     }
-    
-  
   ]
   

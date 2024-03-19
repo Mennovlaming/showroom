@@ -5,12 +5,12 @@ section {
     align-items: center;
 }
 h1 {
-    text-transform: uppercase;
+    
     margin: .5em 0;
 }
 .Showroom-info {
     width: 90%;
-    margin: 1em 0;
+   margin-bottom: 1em;
 }
 
     .Gallery {
@@ -39,9 +39,7 @@ h1 {
     width: 100%;
     padding: 1em;
 }
-.CarInfo h2 {
-    text-transform: uppercase;
-}
+
 .CarInfo p {
     font-weight: 200;
 }
@@ -57,9 +55,13 @@ h1 {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
-
+        width: 85%;
         justify-content: start;
         margin-left: 1em;
+    }
+    .Showroom-info {
+        width: 80%;
+       margin-bottom: 1em;
     }
   }
   
@@ -71,6 +73,7 @@ h1 {
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
+        width: 85%;
     }
   }
   

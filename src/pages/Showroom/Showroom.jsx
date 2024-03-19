@@ -16,7 +16,7 @@ const Showroom = () => {
         {carData.map((car, index) => (
           <Link key={index} to={`/Showroom/car/${index}`} className='CarLink'>
             <div className='Car'>
-              <img src={`../images/${car.images[0]}`} alt={car.title} loading='lazy' />
+              <img src={`../images/cars/${car.images[0]}`} alt={car.title} loading='lazy' />
               <div className='CarInfo'>
                 <h2>{car.title}</h2>
                 <p>{car.secondTitle}</p>

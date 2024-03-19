@@ -1,12 +1,25 @@
 
 .footer {
-    
-    background-color: #28282B;
+    background-color: black;
     color: white;
-    display: flex;
-    gap: 50%;
-    padding: 2em;
+    padding: 1em;
     margin-top: 2em;
+
+    display: flex;
+    justify-content: center;
+}
+.footer a {
+    color: white;
+    font-size: 14px;
+}
+.footer a:hover {
+    color: var(--blue);
+}
+.info {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+
 }
 
 .email {
@@ -14,3 +27,18 @@
     color: var(--blue);
     cursor: pointer;
 }
+
+@media screen and (min-width: 768px) {
+    .info {
+        display: flex;
+        justify-content: space-between;
+        width: 100%;
+        padding: 0 9em;
+    }
+   }
+
+   @media screen and (min-width: 1200px) {
+    .info {
+        padding: 1em 15em;
+       }
+    }

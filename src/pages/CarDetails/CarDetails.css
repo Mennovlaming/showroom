@@ -82,15 +82,9 @@
         height: 650px; /* Pas de hoogte aan op basis van jouw ontwerpbehoeften */
        
     }
-
-    img {
+    img:not(.Banner img) {
         max-width: 1000px;
     }
-    h2{
-        font-size: 36px;
-    }
-    p {
-        font-size: 18px;
-    }
+
     }
 

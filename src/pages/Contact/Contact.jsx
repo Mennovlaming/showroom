@@ -1,17 +1,33 @@
 import './Contact.css';
-import MailButton from "../../components//MailButton/MailButton"
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faEnvelope, faPhone, faHome } from '@fortawesome/free-solid-svg-icons'
 
 const Contact = () => {
+
+    const mailLink = () => {
+        const email = 'mennovlaming@gmail.com';
+        const mailtoLink = `mailto:${email}`;
+       
+        window.open(mailtoLink, '_blank');
+      };
+
     return (
-        <div className='Contact'>
-            <div className='contactText'>
-                <h2>Contact</h2>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-                <p>+31(0)12345679</p>
-                <p>+31(0)223123456</p>
+        <main>
+            <div className='Banner'>
+                <img src={`../images/banner.png`} alt='farmflowers' loading='lazy' />
             </div>
-        <MailButton />
-        </div>
+            <div className='introtext contact'>
+                <h2>
+                Contact
+                </h2>
+                <p>Maak een afspraak om de collectie te bekijken of stel andere vragen.</p>
+                <a onClick={mailLink}><FontAwesomeIcon icon={faEnvelope} /> email@email.com</a>
+                <p><FontAwesomeIcon icon={faPhone} /> 0612345679</p>
+                <p><FontAwesomeIcon icon={faHome} /> Middenvliet 45</p>
+
+            </div>
+        </main>
+        
     )
 }
 
