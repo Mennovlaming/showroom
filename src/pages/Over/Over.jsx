@@ -9,7 +9,7 @@ const Over = () => {
         </div>
         <div className='introtext'>
             <h2>
-            The Farmflowerscollection
+            The FarmFlowers Collection
             </h2>
             <p>Welkom op de site van "The FarmFlowers Collection"
 Onze bedrijfsactiviteiten zijn vanaf de beginjaren na de tweede wereldoorlog, tot heden ten dagen, het telen van bloembollen geweest.&nbsp;&nbsp;  <br />

@@ -8,8 +8,8 @@ const Showroom = () => {
   return (
     <section>
       <div className='Showroom-info'>
-        <h1>Showroom</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+        <h1>Collectie</h1>
+        <p>Zie hier de huidige collectie, u bent welkom om deze in het echt te zien, uitsluitend op afspraak.</p>
       </div>
 
       <div className='Gallery'>

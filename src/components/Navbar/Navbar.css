@@ -12,6 +12,7 @@
   .navbar-hamburger {
     font-size: 1.5rem;
     cursor: pointer;
+
   }
   
   .navbar-links {
@@ -40,7 +41,7 @@
       top: 50px;
       left: 0;
       width: 100%;
-      background-color: black;
+      background-color: white;
     }
   
     .navbar-links.open {
@@ -52,6 +53,7 @@
       display: block;
       font-size: 40px;
       margin: -25px -10px -10px 0;
+      color: black;
     }
   }
   

@@ -25,7 +25,7 @@ const Navbar = () => {
       </div>
       <div className={`navbar-links ${isMenuOpen ? 'open' : ''}`}>
         <Link to="/" onClick={closeMenu}>Home</Link>
-        <Link to="/Showroom" onClick={closeMenu}>Showroom</Link>
+        <Link to="/Showroom" onClick={closeMenu}>Collectie</Link>
         <Link to="/Contact" onClick={closeMenu}>Contact</Link>
         <Link to="/Over" onClick={closeMenu}>Over</Link>
       </div>

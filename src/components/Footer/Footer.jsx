@@ -8,7 +8,7 @@ import { faEnvelope, faPhone, faHome } from '@fortawesome/free-solid-svg-icons'
 
 const Footer = () => {
   const mailLink = () => {
-    const email = 'mennovlaming@gmail.com';
+    const email = 'farmflowers@live.nl';
     const mailtoLink = `mailto:${email}`;
    
     window.open(mailtoLink, '_blank');
@@ -17,10 +17,10 @@ const Footer = () => {
     <div className='footer'>
       <div className='info'>
         <div className='telefoon'>
-          <p><FontAwesomeIcon icon={faPhone} /> 0612345679</p>
-          <p><FontAwesomeIcon icon={faHome} /> Middenvliet 45</p>
+          <p><FontAwesomeIcon icon={faPhone} /> 0620422388</p>
+          <p><FontAwesomeIcon icon={faHome} /> Middenvliet 19</p>
         </div>
-        <a onClick={mailLink}><FontAwesomeIcon icon={faEnvelope} /> email@email.com</a>
+        <a onClick={mailLink}><FontAwesomeIcon icon={faEnvelope} /> farmflowers@live.nl</a>
         </div>
     </div>
   )

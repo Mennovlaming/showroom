@@ -4,7 +4,7 @@ import './MailButton.css'
 const MailButton = () => {
   const handleButtonClick = () => {
     // Specifieer het e-mailadres en eventuele andere parameters
-    const email = 'mennovlaming@gmail.com';
+    const email = 'farmflowers@live.nl';
 
 
     // Creëer de mailto-link

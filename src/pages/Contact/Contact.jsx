@@ -5,7 +5,7 @@ import { faEnvelope, faPhone, faHome } from '@fortawesome/free-solid-svg-icons'
 const Contact = () => {
 
     const mailLink = () => {
-        const email = 'mennovlaming@gmail.com';
+        const email = 'farmflowers@live.nl';
         const mailtoLink = `mailto:${email}`;
        
         window.open(mailtoLink, '_blank');
