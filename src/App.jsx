@@ -1,13 +1,13 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 
 //pages & components
-import Home from './pages/Home/Home'
-import Contact from './pages/Contact/Contact';
-import Over from './pages/Over/Over';
-import Showroom from './pages/Showroom/Showroom';
-import Navbar from './components/Navbar/Navbar';
-import CarDetails from './pages/CarDetails/CarDetails'
-import Footer from './components/Footer/Footer';
+import Home from './pages/Home/Home.jsx'
+import Contact from './pages/Contact/Contact.jsx';
+import Over from './pages/Over/Over.jsx';
+import Showroom from './pages/Showroom/Showroom.jsx';
+import Navbar from './components/Navbar/Navbar.jsx';
+import CarDetails from './pages/CarDetails/CarDetails.jsx'
+import Footer from './components/Footer/Footer.jsx';
 
 function App() {
 
