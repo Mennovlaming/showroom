@@ -13,7 +13,7 @@ function App() {
 
   return (
       <div className='App'>
-        <Router>
+        <Router basename="/">
         <Navbar />
           <div className='pages'>
             <Routes>
@@ -32,10 +32,3 @@ function App() {
 }
 
 export default App
-
-
-// email knop
-// infinite scroll
-// andere huisstijl
-// prive collectie website, niet zakelijk
-//
