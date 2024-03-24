@@ -21,6 +21,10 @@ Als je de showroom wilt updaten doe dan het volgende:
 
 Pas de id altijd aan naar het volgende nummer, en zorg dat de images die je wilt laten zien de bijhorende naam hebben, rest spreekt voor zich, extra info toevoegen kan altijd (kijk wel of het mooi blijft)
 
-5. open een terminal (ctrl + ` op windows)
-6. type: npm run build
-7. Voeg de hele map toe op netlify (kan even duren voordat het zichtbaar is)
+Nu de auto's aangepast zijn, hoeft hij alleen nog maar op github te komen, vanuit hier pakt de hosting automatisch de nieuwste versie. 
+5. Ga  naar https://github.com/Mennovlaming/showroom 
+7. klik op 'Add file' > 'Upload files'
+8. upload alle files, voeg bij description even toe wat je hebt aangepast
+9. 'Commit changes'
+
+Kan een klein kwartiertje duren als je wat hebt aangepast, helemaal als het veel is.
