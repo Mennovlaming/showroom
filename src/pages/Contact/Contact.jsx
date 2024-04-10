@@ -23,7 +23,7 @@ const Contact = () => {
                 <p>Maak een afspraak om de collectie te bekijken of stel andere vragen.</p>
                 <a onClick={mailLink}><FontAwesomeIcon icon={faEnvelope} /> farmflowers@live.nl</a>
                 <p><FontAwesomeIcon icon={faPhone} /> 0620422388</p>
-                <p><FontAwesomeIcon icon={faHome} /> Middenvliet 19</p>
+                <p><FontAwesomeIcon icon={faHome} /> Middenvliet 11</p>
 
             </div>
         </main>
