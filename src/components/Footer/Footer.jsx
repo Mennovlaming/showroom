@@ -18,7 +18,7 @@ const Footer = () => {
       <div className='info'>
         <div className='telefoon'>
           <p><FontAwesomeIcon icon={faPhone} /> 0620422388</p>
-          <p><FontAwesomeIcon icon={faHome} /> Middenvliet 19</p>
+          <p><FontAwesomeIcon icon={faHome} /> Middenvliet 11</p>
         </div>
         <a onClick={mailLink}><FontAwesomeIcon icon={faEnvelope} /> farmflowers@live.nl</a>
         </div>
