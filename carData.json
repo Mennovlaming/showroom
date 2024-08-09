@@ -26,25 +26,34 @@
     },
     {
       "id": 1,
-      "title": "Mustang 6 ",
-      "secondTitle": "Mustang 6",
-      "images": ["mustang6/mustang1.jpg",
-        "mustang6/mustang1.1.jpg",
-        "mustang6/mustang1.2.jpg",
-        "mustang6/mustang1.3.jpg",
-        "mustang6/mustang1.4.jpg",
-        "mustang6/mustang1.5.jpg",
-        "mustang6/mustang1.6.jpg",
-        "mustang6/mustang1.7.jpg",
-        "mustang6/mustang1.8.jpg",
-        "mustang6/mustang1.9.jpg"
+      "title": "Mustang 8 Coupe 1965 ",
+      "secondTitle": "Mustang 8 Coupe 1965",
+      "images": ["mustang8/1.1.jpg",
+        "mustang8/1.2.jpg",
+        "mustang8/1.3.jpg",
+        "mustang8/1.4.jpg",
+        "mustang8/1.5.jpg",
+        "mustang8/1.6.jpg",
+        "mustang8/1.7.jpg",
+        "mustang8/1.8.jpg",
+        "mustang8/1.9.jpg",
+        "mustang8/1.10.jpg"
       ],
-      "desctription": "",
-      "Bouwjaar":"",
-      "Kilometerstand": "",
-      "Vermogen":"",
-      "Transmissie":"",
-      "Brandstof":""
+      "desctription": "Te koop aangeboden mijn 8 cylinder Ford Mustang 289 uit 1965
+De Mustang rijdt erg lekker, de remmen werken prima (bekrachtiging) en de automaat schakelt soepel.
+Het interieur heeft lichte gebruiksporen maar geen beschadigingen en ziet er gewoon goed en netjes uit.
+De instrumenten werken allemaal en het dashboard zelf is als nieuw en net als de hemel, zonder scheurtjes of beschadigingen.
+De Mustang staat mooi strak in de verf.
+De motor is soepel en zeer krachtig en start direct (ook bij koud weer).
+Het chassis, bodem en kofferbak zien er zeer goed uit, met hooguit hier en daar wat vliegroest, maar "overall" een keiharde auto.
+Uitlaat en banden zijn als nieuw.
+De Mustang is in zijn geheel een mooie en complete wagen en behoeft naast het normale onderhoud geen werk.
+Voor verdere info kunt u mij bellen op 06-20422388",
+      "Bouwjaar":"1965",
+      "Kilometerstand": "4272mi",
+      "Vermogen":"200PK",
+      "Transmissie":"Automaat",
+      "Brandstof":"Benzine"
     },
     
     {
