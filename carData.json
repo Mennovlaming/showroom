@@ -17,7 +17,7 @@
        "international_travelall/travelall1.11.jpg",
        "international_travelall/travelall1.12.jpg"
       ],
-      "desctription": "",
+      "description": "",
       "Bouwjaar":"",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -28,7 +28,8 @@
       "id": 1,
       "title": "Mustang 8 Coupe 1965",
       "secondTitle": "Mustang 8 Coupe 1965",
-      "images": ["mustang8/1.1.jpg",
+      "images": [
+        "mustang8/1.1.jpg",
         "mustang8/1.2.jpg",
         "mustang8/1.3.jpg",
         "mustang8/1.4.jpg",
@@ -39,22 +40,14 @@
         "mustang8/1.9.jpg",
         "mustang8/1.10.jpg"
       ],
-      "desctription": "Te koop aangeboden mijn 8 cylinder Ford Mustang 289 uit 1965
-De Mustang rijdt erg lekker, de remmen werken prima (bekrachtiging) en de automaat schakelt soepel.
-Het interieur heeft lichte gebruiksporen maar geen beschadigingen en ziet er gewoon goed en netjes uit.
-De instrumenten werken allemaal en het dashboard zelf is als nieuw en net als de hemel, zonder scheurtjes of beschadigingen.
-De Mustang staat mooi strak in de verf.
-De motor is soepel en zeer krachtig en start direct (ook bij koud weer).
-Het chassis, bodem en kofferbak zien er zeer goed uit, met hooguit hier en daar wat vliegroest, maar "overall" een keiharde auto.
-Uitlaat en banden zijn als nieuw.
-De Mustang is in zijn geheel een mooie en complete wagen en behoeft naast het normale onderhoud geen werk.
-Voor verdere info kunt u mij bellen op 06-20422388",
-      "Bouwjaar":"1965",
+      "description": "Te koop aangeboden mijn 8 cylinder Ford Mustang 289 uit 1965. De Mustang rijdt erg lekker, de remmen werken prima (bekrachtiging) en de automaat schakelt soepel. Het interieur heeft lichte gebruiksporen maar geen beschadigingen en ziet er gewoon goed en netjes uit. De instrumenten werken allemaal en het dashboard zelf is als nieuw en net als de hemel, zonder scheurtjes of beschadigingen. De Mustang staat mooi strak in de verf. De motor is soepel en zeer krachtig en start direct (ook bij koud weer). Het chassis, bodem en kofferbak zien er zeer goed uit, met hooguit hier en daar wat vliegroest, maar 'overall' een keiharde auto. Uitlaat en banden zijn als nieuw. De Mustang is in zijn geheel een mooie en complete wagen en behoeft naast het normale onderhoud geen werk. Voor verdere info kunt u mij bellen op 06-20422388.",
+      "Bouwjaar": "1965",
       "Kilometerstand": "4272mi",
-      "Vermogen":"200PK",
-      "Transmissie":"Automaat",
-      "Brandstof":"Benzine"
+      "Vermogen": "200PK",
+      "Transmissie": "Automaat",
+      "Brandstof": "Benzine"
     },
+    
     
     {
       "id": 2,
@@ -69,7 +62,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
       "mustangcabrio/mustangcabrio1.6.jpg"
     ],
 
-      "desctription": "",
+      "description": "",
       "Bouwjaar":"",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -91,7 +84,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
        "studebakeravanti/studebaker1.8.jpg"
        
       ],
-      "desctription": "Studebaker Avanti",
+      "description": "Studebaker Avanti",
       "Bouwjaar":"",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -117,7 +110,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
        
        
       ],
-      "desctription": "Corvette wit",
+      "description": "Corvette wit",
       "Bouwjaar":"",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -139,7 +132,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
        "mgbblauw/1.9.jpg"
        
       ],
-      "desctription": "MGB Blauw",
+      "description": "MGB Blauw",
       "Bouwjaar":"",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -162,7 +155,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
        "mustangwit/1.10.jpg"
        
       ],
-      "desctription": "Mustang Wit",
+      "description": "Mustang Wit",
       "Bouwjaar":"",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -187,7 +180,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
        "peugeot/1.12.jpg"
        
       ],
-      "desctription": "Peugeot",
+      "description": "Peugeot",
       "Bouwjaar":"",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -214,7 +207,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
       "mgbzwart1968/1.12.jpg"
        
       ],
-      "desctription": "Crown Victoria",
+      "description": "Crown Victoria",
       "Bouwjaar":"1968",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -244,7 +237,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
       "crownvictoria/1.17.jpg"
        
       ],
-      "desctription": "Crown Victoria",
+      "description": "Crown Victoria",
       "Bouwjaar":"",
       "Kilometerstand": "",
       "Vermogen":"",
@@ -258,7 +251,7 @@ Voor verdere info kunt u mij bellen op 06-20422388",
       "images": ["foto1.jpg, foto2.jpg"
        
       ],
-      "desctription": "Crown Victoria",
+      "description": "Crown Victoria",
       "Bouwjaar":"2009",
       "Kilometerstand": "50000000",
       "Vermogen":"54654",
