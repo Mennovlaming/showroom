@@ -34,7 +34,7 @@ const CarDetails = () => {
                 <p className="image-indicator">{currentImageIndex + 1} / {car.images.length}</p>
             </div>
             
-            <p className="text">{car.desctription}</p>
+            <p className="text">{car.description}</p>
             <div className="SmallDetails">
                 <p><strong>Bouwjaar: </strong>{car.Bouwjaar}</p>
                 <p><strong>Kilometerstand: </strong>{car.Kilometerstand}</p>
