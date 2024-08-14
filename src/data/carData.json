@@ -51,7 +51,7 @@
   {
       "id": 2,
       "title": "Studebaker Avanti",
-      "secondTitle": "V8",
+      "secondTitle": "V8 1963",
       "images": [
           "studebakeravanti/studebaker1.jpg",
           "studebakeravanti/studebaker1.1.jpg",
@@ -88,7 +88,7 @@
       "description": "MGB Blauw",
       "Bouwjaar": "1964",
       "Kilometerstand": "",
-      "Vermogen": "",
+      "Vermogen": "95PK",
       "Transmissie": "Handgeschakeld",
       "Brandstof": ""
   },
@@ -138,7 +138,7 @@
       "description": "",
       "Bouwjaar": "1968",
       "Kilometerstand": "",
-      "Vermogen": "",
+      "Vermogen": "95PK",
       "Transmissie": "Handgeschakeld",
       "Brandstof": ""
   },
