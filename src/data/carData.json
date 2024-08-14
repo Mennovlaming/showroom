@@ -1,7 +1,7 @@
 [
   {
       "id": 0,
-      "title": "Travelall",
+      "title": "International Travelall",
       "secondTitle": "International Travelall",
       "images": [
           "international_travelall/travelall1.jpg",
@@ -27,8 +27,8 @@
   },
   {
       "id": 1,
-      "title": "Mustang 8 Coupe 1965",
-      "secondTitle": "Mustang 8 Coupe 1965",
+      "title": "Ford Mustang",
+      "secondTitle": "V8 Coupé 1965",
       "images": [
           "mustang8/1.1.jpg",
           "mustang8/1.2.jpg",
@@ -51,7 +51,7 @@
   {
       "id": 2,
       "title": "Studebaker Avanti",
-      "secondTitle": "",
+      "secondTitle": "V8",
       "images": [
           "studebakeravanti/studebaker1.jpg",
           "studebakeravanti/studebaker1.1.jpg",
@@ -72,8 +72,8 @@
   },
   {
       "id": 3,
-      "title": "MGB Blauw",
-      "secondTitle": "MGB Blauw",
+      "title": "MGB Roadster",
+      "secondTitle": "",
       "images": [
           "mgbblauw/1.1.jpg",
           "mgbblauw/1.2.jpg",
@@ -94,8 +94,8 @@
   },
   {
       "id": 4,
-      "title": "Peugeot",
-      "secondTitle": "Peugeot",
+      "title": "Peugeot 404",
+      "secondTitle": "Sedan Injection",
       "images": [
           "peugeot/1.1.jpg",
           "peugeot/1.2.jpg",
@@ -119,8 +119,8 @@
   },
   {
       "id": 5,
-      "title": "MGB Zwart",
-      "secondTitle": "MGB Zwart",
+      "title": "MGB Roadster",
+      "secondTitle": "MGB Roadster",
       "images": [
           "mgbzwart1968/1.1.jpg",
           "mgbzwart1968/1.2.jpg",
@@ -135,7 +135,7 @@
           "mgbzwart1968/1.11.jpg",
           "mgbzwart1968/1.12.jpg"
       ],
-      "description": "Crown Victoria",
+      "description": "",
       "Bouwjaar": "1968",
       "Kilometerstand": "",
       "Vermogen": "",
@@ -144,7 +144,7 @@
   },
   {
       "id": 6,
-      "title": "Crown Victoria",
+      "title": "Ford Fairlane",
       "secondTitle": "Crown Victoria",
       "images": [
           "crownvictoria/1.1.jpg",
